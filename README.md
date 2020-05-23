@@ -31,6 +31,8 @@
           
 ## environment.yml
     all library packages which is used in the environment for the execution of end-to-end-heart-disease.ipynb file.
+    to install this file (python library)
+    conda env create --prefix ./env --file environment.yml
     
 ## data
       which contains the data files which is used.
