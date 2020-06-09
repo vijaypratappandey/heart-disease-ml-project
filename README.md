@@ -40,3 +40,15 @@
       
 ## heart-disease-model.pkl
       Trained model is stored in this file.
+
+### Tools
+      VS Code
+      miniconda
+      Jupyter
+
+### Python library
+      Pandas
+      NumPy
+      Scikit-learn
+      matplotlib
+      pickle 
